@@ -1,4 +1,4 @@
-# Soukuban-Java
+# Soukuban-Java ![built](https://img.shields.io/badge/build-completed-green)
 Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations.
 
 ## Gameplay
